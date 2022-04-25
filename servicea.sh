@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "This is a service, somehow"
+echo "This is a service, son!"
